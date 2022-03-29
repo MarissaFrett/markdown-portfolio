@@ -1,3 +1,3 @@
--cats
--clothes
--shoes
+- cats
+- clothes
+- shoes
