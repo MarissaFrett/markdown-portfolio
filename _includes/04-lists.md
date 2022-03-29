@@ -1,3 +1,3 @@
--[x]cats
--[x]clothes
--[x]shoes
+-cats
+-clothes
+-shoes
