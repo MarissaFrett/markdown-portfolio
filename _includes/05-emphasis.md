@@ -1,1 +1,6 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+*I am good at makeup*
+_I am good at fashion_
+
+**I am good at helping my friends**
+__I am good at helping my family__
+
